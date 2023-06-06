@@ -1,0 +1,25 @@
+/* PokemonDetails.css */
+
+.pokemon-details {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.pokemon-details img {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.pokemon-details h3 {
+  margin: 5px;
+  font-size: 1.2rem;
+}
+
+.pokemon-details p {
+  margin: 5px;
+  font-size: 1rem;
+}

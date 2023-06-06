@@ -1,0 +1,16 @@
+.pokemon-list-item {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  background-color: #f5f5f5;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.pokemon-list-item:hover {
+  background-color: #e0e0e0;
+}
+
+.pokemon-list-item div {
+  font-size: 1.2rem;
+}

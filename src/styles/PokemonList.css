@@ -1,0 +1,19 @@
+.pokemon-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .pokemon-list li {
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background-color: #f5f5f5;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .pokemon-list li:hover {
+    background-color: #e0e0e0;
+  }
+  
